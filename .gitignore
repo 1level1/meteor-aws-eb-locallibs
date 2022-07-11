@@ -1,0 +1,8 @@
+node_modules/
+.deploy/
+.idea/
+.vscode/*
+packages/qualia_one
+.DS_Store
+private/
+.scripts/.dump
