@@ -39,6 +39,11 @@ insecure@1.0.7
 inter-process-messaging@0.1.1
 jquery@3.0.0
 launch-screen@1.3.0
+local-peerlibrary:extend-publish@0.6.0
+local-peerlibrary:fiber-utils@0.10.0
+local-peerlibrary:reactive-mongo@0.4.1
+local-peerlibrary:reactive-publish@0.10.0
+local-peerlibrary:server-autorun@0.8.0
 logging@1.3.1
 meteor@1.10.0
 meteor-base@1.5.1
@@ -59,11 +64,6 @@ npm-mongo@4.3.1
 observe-sequence@1.0.20
 ordered-dict@1.1.0
 peerlibrary:assert@0.3.0
-peerlibrary:extend-publish@0.6.0
-peerlibrary:fiber-utils@0.10.0
-peerlibrary:reactive-mongo@0.4.1
-peerlibrary:reactive-publish@0.10.0
-peerlibrary:server-autorun@0.8.0
 promise@0.12.0
 random@1.2.0
 react-fast-refresh@0.2.3

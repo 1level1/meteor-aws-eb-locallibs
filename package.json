@@ -8,7 +8,8 @@
     "visualize": "meteor --production --extra-packages bundle-visualizer"
   },
   "dependencies": {
-    "@babel/runtime": "^7.17.9",
+    "@babel/runtime": "^7.18.6",
+    "fibers": "^5.0.1",
     "jquery": "^3.6.0",
     "meteor-node-stubs": "^1.2.1"
   },
@@ -18,5 +19,9 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "engines": {
+    "npm": "=6.14.17",
+    "node": "=14.20.0"
   }
 }
